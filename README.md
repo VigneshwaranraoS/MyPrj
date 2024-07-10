@@ -1,2 +1,2 @@
-# MyPrj
+# MyProject
 MY HUB
