@@ -19,6 +19,9 @@ public class homePage {
 		driver.findElement(By.xpath("//div[text()='superadmin']")).click();
 		driver.findElement(By.xpath("(//span[@class='align-middle'])[3]")).click();
 		
+		
+		
+		
 		Thread.sleep(3000);
 		driver.close();
 		
